@@ -1,0 +1,4 @@
+Docker:   Docker is a configuration management tool that is used to automate the deployment of software in lightweight containers. 
+          These containers help applications to work efficiently in different environments.
+          
+Installation Docker on ubuntu:  First we need to take a Machine in ubuntu for install the docker.
