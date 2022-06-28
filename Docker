@@ -1,6 +1,19 @@
+                                                   Docker
 Docker:   Docker is a configuration management tool that is used to automate the deployment of software in lightweight containers. 
           These containers help applications to work efficiently in different environments.
           
-Installation Docker on ubuntu:  First we need to take a Machine in ubuntu for install the docker
+Installation Docker on ubuntu:  First we need to take a Machine in ubuntu for install the docker.
 
 
+Docker File:  This is a simple text file. which is predefined key words for creating custamiged docker images.
+Key words used in dockerfile ( case sensitive),
+
+Main Keywords in docker file is
+1. From
+2. MAINTAINER
+3. CMD
+4. ENTRYPOINT
+5. RUN 
+6. COPY
+7. ADD 
+8. EXPOSE
