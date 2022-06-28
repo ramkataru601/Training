@@ -17,3 +17,4 @@ Main Keywords in docker file is
 6. COPY
 7. ADD 
 8. EXPOSE
+9. LABEL
