@@ -18,3 +18,5 @@ Main Keywords in docker file is
 7. ADD 
 8. EXPOSE
 9. LABEL
+
+Image:   Docker image is a file uit will have all dependenciesand required configarationsto run a program that is called docker mage
