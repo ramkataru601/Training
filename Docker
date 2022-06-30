@@ -19,4 +19,18 @@ Main Keywords in docker file is
 8. EXPOSE
 9. LABEL
 
-Image:   Docker image is a file uit will have all dependenciesand required configarationsto run a program that is called docker mage
+Image:   (Read only) Docker image is a file uit will have all dependenciesand required configarationsto run a program that is called docker image.
+
+Container: Container is a running instance Which is created from image, when image is executed comes in to running condition it is called continer,
+           By using a single image we can create number of containers.
+           
+Default Commands in docker:   To download a docker image from docker hub. 
+                                    # docker pull image -name
+                              To see the list of docker images.
+                                    # docker image ls
+                                    # docker images
+                              TO delete the docker image from the docker host.
+                                    # docker rmi image name / image id
+                              To Upload a image image in to docker hub.
+                                    # docker push image name
+                       
