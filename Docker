@@ -33,4 +33,25 @@ Default Commands in docker:   To download a docker image from docker hub.
                                     # docker rmi image name / image id
                               To Upload a image image in to docker hub.
                                     # docker push image name
+                                    
+          Explain the docker command we take a simple command
+                               docker run hellow-world
+                               
+                               here docker is cli
+                                    run is command
+                                    hellow-world is image
+                                    
+                                    
+          List creat and start continers:
+                    
+                              To see the list of running continers.
+                                    # docker continer ls
+                              To see the list of running and stopped continers.
+                                    # docker ps -a
+                              To start a continer.
+                                    # docker start continer name/ continer id.
+                             
+                             
+                                   
+                        
                        
